@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
@@ -14,6 +15,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhagya-2005/LeetCode_DSA_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
